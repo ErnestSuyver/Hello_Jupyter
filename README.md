@@ -24,4 +24,5 @@ For some reason, the PNG one does not seem to work. Why not? It works fine in Ob
 ## Shields badge with JSON point (slight variant)
 [![launch nbviewer](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fm4y3apyes7ul.runkit.sh%2F&style=flat&label=launch&message=nbviewer&color=blue)](https://nbviewer.org/github/ErnestSuyver/Hello_Jupyter/blob/main/Hello_Jupyter.ipynb)
 
+For some reason, this variant of the endpoint does not seem to work either. Why not? It works fine in Obsidian?!?!!?!?
 
